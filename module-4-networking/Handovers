@@ -1,0 +1,54 @@
+# Support Handover – Sprint 1 Lab Tickets
+
+**Date:** 20 July 2026
+**Shift:** Morning
+**Engineer:** Your Name
+
+## Ticket #1
+**Title:** [P2] MFA SMS OTP not delivered – finance department, 25 users affected
+
+**Status:** Closed
+
+**Summary:**
+- Investigated SMS OTP delivery failure.
+- Kaleyra dashboard showed REJECTED status codes.
+- Escalated to L2.
+- Root cause identified as sender ID blocked due to TRAI DND violation.
+- Switched to backup sender ID.
+- Customer confirmed OTP delivery restored for all 25 users.
+- Ticket closed.
+
+---
+
+## Ticket #2
+**Title:** [P3] User locked out after password change – AD sync delay suspected
+
+**Status:** In Progress
+
+**Current Findings:**
+- Password change completed successfully in Active Directory.
+- User still unable to authenticate through ZTNA.
+- AD synchronization delay suspected.
+
+**Next Engineer Action:**
+- Verify AD synchronization status.
+- Trigger manual sync if required.
+- Confirm user login after sync.
+
+---
+
+## Ticket #3
+**Title:** [P4] How to add a second gateway – customer requesting guidance
+
+**Status:** Backlog
+
+**Next Engineer Action:**
+- Share deployment documentation.
+- Assist customer with secondary gateway configuration.
+- Verify gateway connectivity after deployment.
+
+---
+
+## Outstanding Items
+- Monitor AD synchronization for Ticket #2.
+- Respond to customer guidance request for Ticket #3.
