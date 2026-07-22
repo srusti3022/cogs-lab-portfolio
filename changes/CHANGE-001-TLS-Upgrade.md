@@ -10,7 +10,7 @@
 
 ## Execution Steps
 
-1. Backup the current Nginx configuration.
+1. Backup current Nginx configuration.
 2. Update the `ssl_protocols` directive.
 3. Test the configuration using `nginx -t`.
 4. Reload the Nginx service.
