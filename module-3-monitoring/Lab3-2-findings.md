@@ -8,16 +8,6 @@
 - Uses PromQL for querying time-series data.
 - Commonly used for infrastructure and Kubernetes monitoring.
 
-### Grafana# Lab 3.2 Findings
-
-## Prometheus vs Grafana vs SigNoz
-
-### Prometheus
-- Open-source monitoring and alerting system.
-- Collects metrics using a pull-based model.
-- Uses PromQL for querying time-series data.
-- Commonly used for infrastructure and Kubernetes monitoring.
-
 ### Grafana
 - Visualization and dashboard platform.
 - Connects to Prometheus as a data source.
